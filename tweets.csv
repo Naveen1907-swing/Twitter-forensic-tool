@@ -1,0 +1,201 @@
+username,id,tweet,polarity,subjectivity
+user-7193,1,"Lately, I’ve been reflecting on the importance of mental health. It’s okay not to be okay. #MentalHealthMatters",0.15,0.45
+user-1081,2,Did you see the news about the new regulations on data privacy? It’s about time! #DataProtection,0.17045454545454544,0.45454545454545453
+user-6835,3,Just had the best cup of coffee at my favorite café. Can’t start my day without it! ☕️ #CoffeeLover,0.8125,0.65
+user-7363,4,"Success isn’t just about what you accomplish, but also about what you inspire others to do. #Inspiration",0.3,0.0
+user-6617,5,Taking a moment to appreciate the little things in life today. Gratitude makes everything better. 🙏 #Mindfulness,0.15625,0.5
+user-7498,6,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-1306,7,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-9427,8,Taking a moment to appreciate the little things in life today. Gratitude makes everything better. 🙏 #Mindfulness,0.15625,0.5
+user-3783,9,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-6014,10,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-7851,11,Did you know that phishing attacks are one of the most common cybersecurity threats? Always double-check your emails! #StaySafe,0.0625,0.5
+user-4413,12,Why does it always rain on the weekends? I just want to enjoy some sun! 🌧️ #WeatherWoes,0.5,0.5
+user-9394,13,Understanding how data breaches happen can help us prevent them. Knowledge is power! #CyberAware,0.0,0.0
+user-7056,14,"Every step forward, no matter how small, is progress. Keep moving! 🚀 #PositiveVibes",-0.3125,0.4
+user-8187,15,"Every step forward, no matter how small, is progress. Keep moving! 🚀 #PositiveVibes",-0.3125,0.4
+user-1132,16,"Success isn’t just about what you accomplish, but also about what you inspire others to do. #Inspiration",0.3,0.0
+user-6044,17,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-9662,18,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-7253,19,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-1196,20,Caught up with an old friend today. It’s amazing how time flies! #Friendship,0.42500000000000004,0.55
+user-3690,21,Another disappointing episode in my favorite series. Why do they keep changing the plot? #TVFrustration,-0.04999999999999999,0.85
+user-7770,22,Another disappointing episode in my favorite series. Why do they keep changing the plot? #TVFrustration,-0.04999999999999999,0.85
+user-2862,23,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-5279,24,Did you know that phishing attacks are one of the most common cybersecurity threats? Always double-check your emails! #StaySafe,0.0625,0.5
+user-6842,25,Did you see the news about the new regulations on data privacy? It’s about time! #DataProtection,0.17045454545454544,0.45454545454545453
+user-7294,26,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-8279,27,Another disappointing episode in my favorite series. Why do they keep changing the plot? #TVFrustration,-0.04999999999999999,0.85
+user-1765,28,Excited to learn about the latest trends in AI and how they’re shaping our future! #TechTalk,0.2916666666666667,0.5916666666666667
+user-9532,29,"Lately, I’ve been reflecting on the importance of mental health. It’s okay not to be okay. #MentalHealthMatters",0.15,0.45
+user-2716,30,Why does it always rain on the weekends? I just want to enjoy some sun! 🌧️ #WeatherWoes,0.5,0.5
+user-9404,31,Taking a moment to appreciate the little things in life today. Gratitude makes everything better. 🙏 #Mindfulness,0.15625,0.5
+user-4108,32,Why did the programmer quit his job? Because he didn’t get arrays! 😂 #ProgrammingJokes,0.0,0.0
+user-3686,33,Another disappointing episode in my favorite series. Why do they keep changing the plot? #TVFrustration,-0.04999999999999999,0.85
+user-7406,34,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-7815,35,Did you know that phishing attacks are one of the most common cybersecurity threats? Always double-check your emails! #StaySafe,0.0625,0.5
+user-5451,36,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-8711,37,Understanding how data breaches happen can help us prevent them. Knowledge is power! #CyberAware,0.0,0.0
+user-7470,38,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-6450,39,Excited to learn about the latest trends in AI and how they’re shaping our future! #TechTalk,0.2916666666666667,0.5916666666666667
+user-6323,40,Caught up with an old friend today. It’s amazing how time flies! #Friendship,0.42500000000000004,0.55
+user-4938,41,Taking a moment to appreciate the little things in life today. Gratitude makes everything better. 🙏 #Mindfulness,0.15625,0.5
+user-7838,42,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-7704,43,Why did the programmer quit his job? Because he didn’t get arrays! 😂 #ProgrammingJokes,0.0,0.0
+user-5985,44,Why does it always rain on the weekends? I just want to enjoy some sun! 🌧️ #WeatherWoes,0.5,0.5
+user-6619,45,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-2123,46,Major cybersecurity breach reported today. Time to check your passwords! #CyberNews,0.078125,0.5
+user-8726,47,Taking a moment to appreciate the little things in life today. Gratitude makes everything better. 🙏 #Mindfulness,0.15625,0.5
+user-7525,48,Just had the best cup of coffee at my favorite café. Can’t start my day without it! ☕️ #CoffeeLover,0.8125,0.65
+user-5640,49,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-3173,50,Just had the best cup of coffee at my favorite café. Can’t start my day without it! ☕️ #CoffeeLover,0.8125,0.65
+user-4191,51,"Lately, I’ve been reflecting on the importance of mental health. It’s okay not to be okay. #MentalHealthMatters",0.15,0.45
+user-6084,52,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-8139,53,Why did the programmer quit his job? Because he didn’t get arrays! 😂 #ProgrammingJokes,0.0,0.0
+user-8649,54,Major cybersecurity breach reported today. Time to check your passwords! #CyberNews,0.078125,0.5
+user-6243,55,"Success isn’t just about what you accomplish, but also about what you inspire others to do. #Inspiration",0.3,0.0
+user-1024,56,Just had the best cup of coffee at my favorite café. Can’t start my day without it! ☕️ #CoffeeLover,0.8125,0.65
+user-4006,57,"Every step forward, no matter how small, is progress. Keep moving! 🚀 #PositiveVibes",-0.3125,0.4
+user-7780,58,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-1340,59,Sometimes you just need a good book and a rainy day. 📚 #Reading,0.7,0.6000000000000001
+user-5774,60,Another disappointing episode in my favorite series. Why do they keep changing the plot? #TVFrustration,-0.04999999999999999,0.85
+user-1914,61,Sometimes you just need a good book and a rainy day. 📚 #Reading,0.7,0.6000000000000001
+user-5094,62,Excited to learn about the latest trends in AI and how they’re shaping our future! #TechTalk,0.2916666666666667,0.5916666666666667
+user-7199,63,"Lately, I’ve been reflecting on the importance of mental health. It’s okay not to be okay. #MentalHealthMatters",0.15,0.45
+user-1582,64,Why does it always rain on the weekends? I just want to enjoy some sun! 🌧️ #WeatherWoes,0.5,0.5
+user-3767,65,"Remember, every day is a chance to start anew. Don’t let yesterday’s failures hold you back! 🌟 #Motivation",0.0,0.0
+user-1742,66,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-8140,67,"Every step forward, no matter how small, is progress. Keep moving! 🚀 #PositiveVibes",-0.3125,0.4
+user-9182,68,Caught up with an old friend today. It’s amazing how time flies! #Friendship,0.42500000000000004,0.55
+user-2154,69,Why does it always rain on the weekends? I just want to enjoy some sun! 🌧️ #WeatherWoes,0.5,0.5
+user-1887,70,Another disappointing episode in my favorite series. Why do they keep changing the plot? #TVFrustration,-0.04999999999999999,0.85
+user-9172,71,Another disappointing episode in my favorite series. Why do they keep changing the plot? #TVFrustration,-0.04999999999999999,0.85
+user-7300,72,Excited to learn about the latest trends in AI and how they’re shaping our future! #TechTalk,0.2916666666666667,0.5916666666666667
+user-5754,73,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-3892,74,"Every step forward, no matter how small, is progress. Keep moving! 🚀 #PositiveVibes",-0.3125,0.4
+user-3017,75,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-8509,76,Sometimes you just need a good book and a rainy day. 📚 #Reading,0.7,0.6000000000000001
+user-3327,77,Why does it always rain on the weekends? I just want to enjoy some sun! 🌧️ #WeatherWoes,0.5,0.5
+user-9008,78,Why did the programmer quit his job? Because he didn’t get arrays! 😂 #ProgrammingJokes,0.0,0.0
+user-4096,79,Did you know that phishing attacks are one of the most common cybersecurity threats? Always double-check your emails! #StaySafe,0.0625,0.5
+user-3101,80,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-6354,81,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-8851,82,Major cybersecurity breach reported today. Time to check your passwords! #CyberNews,0.078125,0.5
+user-9248,83,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-5644,84,"Lately, I’ve been reflecting on the importance of mental health. It’s okay not to be okay. #MentalHealthMatters",0.15,0.45
+user-3161,85,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-5375,86,"Remember, every day is a chance to start anew. Don’t let yesterday’s failures hold you back! 🌟 #Motivation",0.0,0.0
+user-8554,87,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-4287,88,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-1160,89,Why did the programmer quit his job? Because he didn’t get arrays! 😂 #ProgrammingJokes,0.0,0.0
+user-2914,90,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-5312,91,Major cybersecurity breach reported today. Time to check your passwords! #CyberNews,0.078125,0.5
+user-5091,92,Taking a moment to appreciate the little things in life today. Gratitude makes everything better. 🙏 #Mindfulness,0.15625,0.5
+user-4906,93,Excited to learn about the latest trends in AI and how they’re shaping our future! #TechTalk,0.2916666666666667,0.5916666666666667
+user-1004,94,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-4774,95,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-8576,96,Why does it always rain on the weekends? I just want to enjoy some sun! 🌧️ #WeatherWoes,0.5,0.5
+user-7986,97,Excited to learn about the latest trends in AI and how they’re shaping our future! #TechTalk,0.2916666666666667,0.5916666666666667
+user-4424,98,Caught up with an old friend today. It’s amazing how time flies! #Friendship,0.42500000000000004,0.55
+user-8218,99,"Success isn’t just about what you accomplish, but also about what you inspire others to do. #Inspiration",0.3,0.0
+user-5352,100,"Every step forward, no matter how small, is progress. Keep moving! 🚀 #PositiveVibes",-0.3125,0.4
+user-1929,101,Major cybersecurity breach reported today. Time to check your passwords! #CyberNews,0.078125,0.5
+user-2525,102,Sometimes you just need a good book and a rainy day. 📚 #Reading,0.7,0.6000000000000001
+user-6837,103,"Success isn’t just about what you accomplish, but also about what you inspire others to do. #Inspiration",0.3,0.0
+user-9647,104,Just had the best cup of coffee at my favorite café. Can’t start my day without it! ☕️ #CoffeeLover,0.8125,0.65
+user-4065,105,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-5931,106,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-8331,107,Understanding how data breaches happen can help us prevent them. Knowledge is power! #CyberAware,0.0,0.0
+user-2640,108,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-6565,109,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-3423,110,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-3779,111,Why did the programmer quit his job? Because he didn’t get arrays! 😂 #ProgrammingJokes,0.0,0.0
+user-1834,112,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-9555,113,"Every step forward, no matter how small, is progress. Keep moving! 🚀 #PositiveVibes",-0.3125,0.4
+user-9863,114,Another disappointing episode in my favorite series. Why do they keep changing the plot? #TVFrustration,-0.04999999999999999,0.85
+user-5901,115,Major cybersecurity breach reported today. Time to check your passwords! #CyberNews,0.078125,0.5
+user-7888,116,"Remember, every day is a chance to start anew. Don’t let yesterday’s failures hold you back! 🌟 #Motivation",0.0,0.0
+user-9857,117,Just had the best cup of coffee at my favorite café. Can’t start my day without it! ☕️ #CoffeeLover,0.8125,0.65
+user-5035,118,"Success isn’t just about what you accomplish, but also about what you inspire others to do. #Inspiration",0.3,0.0
+user-6935,119,Did you see the news about the new regulations on data privacy? It’s about time! #DataProtection,0.17045454545454544,0.45454545454545453
+user-2487,120,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-5701,121,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-3862,122,Understanding how data breaches happen can help us prevent them. Knowledge is power! #CyberAware,0.0,0.0
+user-3887,123,Why did the programmer quit his job? Because he didn’t get arrays! 😂 #ProgrammingJokes,0.0,0.0
+user-4682,124,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-3175,125,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-9452,126,Understanding how data breaches happen can help us prevent them. Knowledge is power! #CyberAware,0.0,0.0
+user-2880,127,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-1972,128,"Every step forward, no matter how small, is progress. Keep moving! 🚀 #PositiveVibes",-0.3125,0.4
+user-7610,129,Another disappointing episode in my favorite series. Why do they keep changing the plot? #TVFrustration,-0.04999999999999999,0.85
+user-7801,130,Just had the best cup of coffee at my favorite café. Can’t start my day without it! ☕️ #CoffeeLover,0.8125,0.65
+user-9183,131,Just read about the latest developments in renewable energy. The future is looking bright! 🌍 #GreenEnergy,0.4583333333333333,0.6083333333333333
+user-4888,132,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-4404,133,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-8593,134,Sometimes you just need a good book and a rainy day. 📚 #Reading,0.7,0.6000000000000001
+user-8088,135,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-1377,136,Did you know that phishing attacks are one of the most common cybersecurity threats? Always double-check your emails! #StaySafe,0.0625,0.5
+user-3085,137,Did you know that phishing attacks are one of the most common cybersecurity threats? Always double-check your emails! #StaySafe,0.0625,0.5
+user-9042,138,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-1084,139,Why does it always rain on the weekends? I just want to enjoy some sun! 🌧️ #WeatherWoes,0.5,0.5
+user-8136,140,Just read about the latest developments in renewable energy. The future is looking bright! 🌍 #GreenEnergy,0.4583333333333333,0.6083333333333333
+user-9696,141,Did you know that phishing attacks are one of the most common cybersecurity threats? Always double-check your emails! #StaySafe,0.0625,0.5
+user-2940,142,Taking a moment to appreciate the little things in life today. Gratitude makes everything better. 🙏 #Mindfulness,0.15625,0.5
+user-6147,143,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-9332,144,Sometimes you just need a good book and a rainy day. 📚 #Reading,0.7,0.6000000000000001
+user-5362,145,Sometimes you just need a good book and a rainy day. 📚 #Reading,0.7,0.6000000000000001
+user-8781,146,Another disappointing episode in my favorite series. Why do they keep changing the plot? #TVFrustration,-0.04999999999999999,0.85
+user-4638,147,Did you know that phishing attacks are one of the most common cybersecurity threats? Always double-check your emails! #StaySafe,0.0625,0.5
+user-1621,148,Caught up with an old friend today. It’s amazing how time flies! #Friendship,0.42500000000000004,0.55
+user-1218,149,Just read about the latest developments in renewable energy. The future is looking bright! 🌍 #GreenEnergy,0.4583333333333333,0.6083333333333333
+user-2807,150,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-4626,151,Just read about the latest developments in renewable energy. The future is looking bright! 🌍 #GreenEnergy,0.4583333333333333,0.6083333333333333
+user-5236,152,Why did the programmer quit his job? Because he didn’t get arrays! 😂 #ProgrammingJokes,0.0,0.0
+user-3820,153,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-4516,154,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-2861,155,I can’t believe how much work I have left to do! Feeling overwhelmed right now. 😩 #Stress,0.1619047619047619,0.24523809523809526
+user-5162,156,"Every step forward, no matter how small, is progress. Keep moving! 🚀 #PositiveVibes",-0.3125,0.4
+user-9380,157,Just read about the latest developments in renewable energy. The future is looking bright! 🌍 #GreenEnergy,0.4583333333333333,0.6083333333333333
+user-9616,158,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-3062,159,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-9539,160,"Remember, every day is a chance to start anew. Don’t let yesterday’s failures hold you back! 🌟 #Motivation",0.0,0.0
+user-7645,161,Did you know that phishing attacks are one of the most common cybersecurity threats? Always double-check your emails! #StaySafe,0.0625,0.5
+user-1906,162,Taking a moment to appreciate the little things in life today. Gratitude makes everything better. 🙏 #Mindfulness,0.15625,0.5
+user-9379,163,"Lately, I’ve been reflecting on the importance of mental health. It’s okay not to be okay. #MentalHealthMatters",0.15,0.45
+user-5250,164,Major cybersecurity breach reported today. Time to check your passwords! #CyberNews,0.078125,0.5
+user-3525,165,Why did the programmer quit his job? Because he didn’t get arrays! 😂 #ProgrammingJokes,0.0,0.0
+user-4033,166,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-7275,167,Taking a moment to appreciate the little things in life today. Gratitude makes everything better. 🙏 #Mindfulness,0.15625,0.5
+user-1459,168,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-1159,169,Why does it always rain on the weekends? I just want to enjoy some sun! 🌧️ #WeatherWoes,0.5,0.5
+user-4455,170,Did you know that phishing attacks are one of the most common cybersecurity threats? Always double-check your emails! #StaySafe,0.0625,0.5
+user-7573,171,Did you know that phishing attacks are one of the most common cybersecurity threats? Always double-check your emails! #StaySafe,0.0625,0.5
+user-7032,172,Major cybersecurity breach reported today. Time to check your passwords! #CyberNews,0.078125,0.5
+user-6368,173,Did you see the news about the new regulations on data privacy? It’s about time! #DataProtection,0.17045454545454544,0.45454545454545453
+user-7692,174,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-8817,175,Why does it always rain on the weekends? I just want to enjoy some sun! 🌧️ #WeatherWoes,0.5,0.5
+user-8821,176,Why did the programmer quit his job? Because he didn’t get arrays! 😂 #ProgrammingJokes,0.0,0.0
+user-6902,177,Major cybersecurity breach reported today. Time to check your passwords! #CyberNews,0.078125,0.5
+user-1587,178,Excited to learn about the latest trends in AI and how they’re shaping our future! #TechTalk,0.2916666666666667,0.5916666666666667
+user-8537,179,Understanding how data breaches happen can help us prevent them. Knowledge is power! #CyberAware,0.0,0.0
+user-8480,180,Major cybersecurity breach reported today. Time to check your passwords! #CyberNews,0.078125,0.5
+user-6498,181,Another disappointing episode in my favorite series. Why do they keep changing the plot? #TVFrustration,-0.04999999999999999,0.85
+user-9388,182,Excited to learn about the latest trends in AI and how they’re shaping our future! #TechTalk,0.2916666666666667,0.5916666666666667
+user-2891,183,"Remember, every day is a chance to start anew. Don’t let yesterday’s failures hold you back! 🌟 #Motivation",0.0,0.0
+user-1576,184,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-4549,185,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-3358,186,Taking a moment to appreciate the little things in life today. Gratitude makes everything better. 🙏 #Mindfulness,0.15625,0.5
+user-8972,187,Learning to say no has been the best thing for my personal growth. #SelfCare,0.5,0.3
+user-5080,188,Major cybersecurity breach reported today. Time to check your passwords! #CyberNews,0.078125,0.5
+user-7948,189,Did you know that phishing attacks are one of the most common cybersecurity threats? Always double-check your emails! #StaySafe,0.0625,0.5
+user-4932,190,Just had the best cup of coffee at my favorite café. Can’t start my day without it! ☕️ #CoffeeLover,0.8125,0.65
+user-6784,191,"Remember, every day is a chance to start anew. Don’t let yesterday’s failures hold you back! 🌟 #Motivation",0.0,0.0
+user-4521,192,Just had the best cup of coffee at my favorite café. Can’t start my day without it! ☕️ #CoffeeLover,0.8125,0.65
+user-3024,193,Caught up with an old friend today. It’s amazing how time flies! #Friendship,0.42500000000000004,0.55
+user-7316,194,Excited to learn about the latest trends in AI and how they’re shaping our future! #TechTalk,0.2916666666666667,0.5916666666666667
+user-4493,195,Debugging: Being the detective in a crime movie where you are also the murderer. 🕵️‍♂️ #DeveloperLife,0.0,0.0
+user-5903,196,Caught up with an old friend today. It’s amazing how time flies! #Friendship,0.42500000000000004,0.55
+user-1342,197,Sometimes you just need a good book and a rainy day. 📚 #Reading,0.7,0.6000000000000001
+user-8702,198,Another disappointing episode in my favorite series. Why do they keep changing the plot? #TVFrustration,-0.04999999999999999,0.85
+user-2641,199,"If at first you don’t succeed, call it version 1.0. 😄 #Humor",0.25,0.3333333333333333
+user-2626,200,Why did the programmer quit his job? Because he didn’t get arrays! 😂 #ProgrammingJokes,0.0,0.0
